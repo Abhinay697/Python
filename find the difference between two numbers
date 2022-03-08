@@ -1,0 +1,6 @@
+#find the difference between two numbers
+
+a = int (input("Enter the First Number:"))
+b = int(input("Enter the seconf number:"))
+Dif = a-b
+print(Dif)
