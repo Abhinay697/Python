@@ -1,0 +1,6 @@
+#find the sum of two numbers
+
+a = int (input("Enter the First Number:"))
+b = int(input("Enter the seconf number:"))
+Sum = a+b
+print(Sum)
